@@ -54,7 +54,7 @@
         <axon.version>4.4.7</axon.version>
         <spring-cloud-release.version>Hoxton.SR10</spring-cloud-release.version>
 
-        <spring.version>5.3.4</spring.version>
+        <spring.version>5.3.5</spring.version>
         <spring-messaging.version>5.3.4</spring-messaging.version>
         <spring-integration.version>5.3.4.RELEASE</spring-integration.version>
         <spring.boot.version>2.3.9.RELEASE</spring.boot.version>
