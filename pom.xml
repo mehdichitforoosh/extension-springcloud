@@ -56,7 +56,7 @@
 
         <spring.version>5.3.4</spring.version>
         <spring-messaging.version>5.3.4</spring-messaging.version>
-        <spring-integration.version>5.3.4.RELEASE</spring-integration.version>
+        <spring-integration.version>5.4.6</spring-integration.version>
         <spring.boot.version>2.3.9.RELEASE</spring.boot.version>
 
         <slf4j.version>1.7.30</slf4j.version>
